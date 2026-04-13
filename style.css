@@ -957,3 +957,14 @@ button, a, .country-option, .file-upload-area {
 .checkbox-label strong {
   color: #ff4d6d;
 }
+
+#intro-region {
+  font-size: 0.8rem;
+  color: #c060ff;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border: 1px solid rgba(180, 80, 255, 0.3);
+  border-radius: 20px;
+  padding: 0.3rem 0.9rem;
+  background: rgba(180, 80, 255, 0.08);
+}
